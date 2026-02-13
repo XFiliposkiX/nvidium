@@ -61,7 +61,6 @@ dependencies {
     modImplementation(fabricApi.module("fabric-api-base", project.fabric_version))
     modImplementation(fabricApi.module("fabric-block-view-api-v2", project.fabric_version))
     modImplementation(fabricApi.module("fabric-rendering-fluids-v1", project.fabric_version))
-    modImplementation(fabricApi.module("fabric-rendering-data-attachment-v1", project.fabric_version))
     modImplementation(fabricApi.module("fabric-resource-loader-v0", project.fabric_version))
 
     // Optional mods (update versions if needed)
